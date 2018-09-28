@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--服务器功能-->
+<services>
+	<service key="login">Services.Login</service>
+	<service key="register">Services.Register</service>
+	<service key="getClasses">Services.GetClasses</service>
+	<service key="getNovels">Services.GetNovels</service>
+	<service key="upload">Services.Upload</service>
+	<service key="download">Services.Download</service>
+	<service key="getCon">Services.GetCon</service>
+</services>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+	<class>
+		<classname>武侠</classname>
+		<catalog>Server\\txtcatalog\\wuxia\\</catalog>
+		<config>Server\\config\\txt_wuxia.xml</config>
+	</class>
+	<class>
+		<classname>言情</classname>
+		<catalog>Server\\txtcatalog\\yanqing\\</catalog>
+		<config>Server\\config\\txt_yanqing.xml</config>
+	</class>
+	<class>
+		<classname>玄幻</classname>
+		<catalog>Server\\txtcatalog\\seqing\\</catalog>
+		<config>Server\\config\\txt_seqing.xml</config>
+	</class>
+	<class>
+		<classname>色情</classname>
+		<catalog>Server\\txtcatalog\\seqing\\</catalog>
+		<config>Server\\config\\txt_seqing.xml</config>
+	</class>
+</classes>

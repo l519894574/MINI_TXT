@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--客户端器功能-->
+<services>
+	<service key="start">Services.StartService</service>
+	<service key="login">Services.LoginS</service>
+	<service key="register">Services.RegisterS</service>
+	<service key="getClasses">Services.GetClassS</service>
+	<service key="getNovels">Services.GetNovelsS</service>
+	<service key="upload">Services.UploadS</service>
+	<service key="download">Services.DownloadS</service>
+	<service key="getCon">Services.GetConS</service>
+</services>
+ 

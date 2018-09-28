@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<novellist>
+	<novel>
+		<name>天涯明月刀</name>
+		<author>古龙</author>
+		<description>与世隔绝三百多年的“碧湖山庄”四少侠出现在大都市中，既有古人的风采，又有现代人的韵味!</description>
+		<filename>天涯明月刀.txt</filename>
+	</novel>
+	<novel>
+		<name>天龙八部</name>
+		<author>金庸</author>
+		<description>傅红雪拯救自我、拯救他人最终达到自我升华的过程</description>
+		<filename>天龙八部.txt</filename>
+	</novel>
+</novellist>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="服务器:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="服务器.jar">
+      <element id="module-output" name="服务器" />
+      <element id="extracted-dir" path="D:/JAVA/dom4j-2.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
